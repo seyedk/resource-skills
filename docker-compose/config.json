@@ -1,0 +1,4 @@
+{
+    "db_connection": "host=db port=15432 user=postgres password=password dbname=products sslmode=disable"
+
+  }
